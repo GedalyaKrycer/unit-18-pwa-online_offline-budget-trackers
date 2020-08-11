@@ -1,6 +1,6 @@
 # unit-18-pwa-online_offline-budget-trackers
 
-[View Deployed App on Heroku]()
+***Coming Soon:*** [View Deployed App on Heroku]()
 
 ## Objective
 The goal was to add indexDB and PWA capabilities to an existing app. These features allows the site to be operational (temporarily store data) when it goes offline and to be downloaded onto a computer/mobile device.
